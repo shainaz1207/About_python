@@ -1,0 +1,11 @@
+python was  developed by guido van rossum. his date of birth 31st jan 1956.he is from dutch.
+python was development in dec 1989.
+python was released in the year feb 20th 1991.
+python name derived from T.V serial " monty's python flying circus" in the year of 1956 .it is completed 4 seasons.it is comedy type.
+python software foundation on 6th march,2001.
+python have 3 versions:
+   python1:
+   python2:16th oct, 2000.
+   python3:3rd dec ,2008. 
+python development started at a research institute in CWI(centrum wiskunde informatica).
+  
