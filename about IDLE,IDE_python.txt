@@ -1,0 +1,14 @@
+IDLE-->integrated development learning environment.
+here ,we no need  to save  the code  inorder to get executed or run it.
+IDE-->integrated development environment>
+here,we need to save the code compulsory inorder to get executed.
+until then the program won't get executed.
+types of IDE's for python:-
+python
+jupyter notebook
+pycharm
+sublime
+eclipse
+thonny
+microsoft visual studio code
+spyder
