@@ -1,0 +1,16 @@
+python installation:
+
+
+1.python.org
+2.python 3.10.4 version download
+3.select 3.10 to path and continue and install now
+
+
+
+download visual studio code:
+
+1.visual studio code download.
+2.download windows 64 bit
+2.open the.exe file.
+4.you will get a window make surem you select click button.
+5.the python software will successfully installed..!
