@@ -43,19 +43,6 @@ Variables are containers for storing data values.
 Python has no command for declaring a variable. hence python is called dynamically typed language
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 Why Python?
 Easy to learn
 Easy to write code
